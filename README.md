@@ -39,9 +39,4 @@ attendance-tracker
 ---
 ## Author
 
-**Ruthvik**
-
-GitHub:  
-https://github.com/ruthviksharma-d
-
-## Project Structure
+**Ruthvik**[(https://github.com/ruthviksharma-d)]
