@@ -23,5 +23,25 @@ This project is built using **HTML, CSS, and JavaScript** and is designed to be 
 - **JavaScript (Vanilla JS)** – Application logic and interactivity  
 
 ---
+attendance-tracker
+│
+├── index.html # Main UI of the application
+├── style.css # Styling for the application
+├── script.js # JavaScript logic for attendance handling
+└── README.md # Project documentation
+---
+## Usage
+
+1. Enter attendance information in the provided fields.  
+2. Select the appropriate date.  
+3. Submit the entry to record attendance.  
+4. View the attendance summary displayed on the page.
+---
+## Author
+
+**Ruthvik**
+
+GitHub:  
+https://github.com/ruthviksharma-d
 
 ## Project Structure
